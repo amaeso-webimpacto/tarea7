@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>modulo_tarea4</name>
+	<displayName><![CDATA[Modulo tarea 4]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Modulo que envia un mail con confirmación de pedido y genera cupón descuento a partir de x cantidad gastada por el cliente en la tienda.]]></description>
+	<author><![CDATA[yomisma]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
